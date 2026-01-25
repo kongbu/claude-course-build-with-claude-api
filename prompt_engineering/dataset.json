@@ -1,0 +1,49 @@
+[
+  {
+    "prompt_inputs": {
+      "height": "178 cm",
+      "weight": "72 kg",
+      "goal": "optimize athletic performance and recovery for soccer match",
+      "restrictions": "vegetarian, no meat or fish"
+    },
+    "solution_criteria": [
+      "Meal plan covers full day (breakfast, lunch, dinner, snacks) with realistic portion sizes",
+      "All meals are vegetarian with adequate protein sources (legumes, tofu, dairy, nuts, seeds) to support athletic performance",
+      "Plan is compact and concise (1 day format, minimal elaboration)"
+    ],
+    "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
+    "scenario": "Testing with a sport-specific dietary constraint (vegetarian soccer player) requiring alternative protein sources while meeting athletic performance needs"
+  },
+  {
+    "prompt_inputs": {
+      "height": "178 cm",
+      "weight": "68 kg",
+      "goal": "Prepare for marathon race day with optimal carbohydrate loading and energy timing around 2-hour morning training run",
+      "restrictions": "Vegetarian, no nuts"
+    },
+    "solution_criteria": [
+      "Meal plan covers exactly 1 day with 4-5 meals/snacks",
+      "Includes high carbohydrate intake (60-70% of calories) appropriate for endurance athlete",
+      "Pre-training meal provided 2-3 hours before morning run and post-training recovery meal within 30-60 minutes",
+      "All meals respect vegetarian and nut-free restrictions"
+    ],
+    "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
+    "scenario": "Testing with a high-intensity endurance athlete (marathon runner) requiring high carbohydrate intake and specific timing around training sessions"
+  },
+  {
+    "prompt_inputs": {
+      "height": "178 cm",
+      "weight": "85 kg",
+      "goal": "Maximize strength and power output with optimal recovery between morning and evening training sessions",
+      "restrictions": "None"
+    },
+    "solution_criteria": [
+      "Meal plan spans full 24 hours with at least 3 meals and 2 snacks strategically timed around training windows",
+      "Protein distributed across all eating occasions (minimum 25g per meal/snack) totaling approximately 1.6-2.0g per kg bodyweight",
+      "Includes specific recovery nutrition within 2 hours post-training with carbohydrates and protein for glycogen replenishment",
+      "All meals and snacks are practical, compact descriptions suitable for a single day reference guide"
+    ],
+    "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
+    "scenario": "Testing with a strength/power athlete (weightlifter) emphasizing protein distribution and recovery nutrition across multiple training windows"
+  }
+]
