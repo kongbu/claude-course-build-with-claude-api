@@ -62,3 +62,11 @@ export ANTHROPIC_API_KEY="your-key-here"
 ```
 
 Then open any notebook (e.g. `1_access_claude_with_API/001_requests.ipynb`) in Jupyter to get started.
+
+# Additional topics to investigate
+
+- Agent orchestration
+- Agent evaluation and instrumentation
+- Agentic RAG
+- RAG evaluation
+- Tool evaluation
